@@ -1,7 +1,7 @@
 # py-denseflow-GPU
 Extract optical flow images from videos with GPU and multiprocessing support with the TVL1 algorithm.
 
-Adapted from [pydenseflow](https://github.com/qijiezhao/py-denseflow)
+Adapted from [py-denseflow](https://github.com/qijiezhao/py-denseflow)
 
 Requirements:
 - OpenCV + CUDA
